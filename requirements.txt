@@ -1,4 +1,5 @@
-streamlit
-openai
-pandas
-pillow
+streamlit>=1.66,<2
+openai>=2,<4
+pandas>=2.2,<4
+pillow>=11,<13
+supabase>=2.20,<3
