@@ -1,0 +1,7 @@
+.streamlit/secrets.toml
+__pycache__/
+.pytest_cache/
+.venv/
+food_log.csv
+user_profile.json
+*.bak
